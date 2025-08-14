@@ -1,0 +1,92 @@
+{
+  "focus": {
+    "ring": {
+      "offset": {
+        "value": "{core/base.spacing.xxs}",
+        "type": "number"
+      }
+    }
+  },
+  "button": {
+    "size": {
+      "md": {
+        "height": {
+          "value": 36,
+          "type": "number"
+        },
+        "paddingX": {
+          "value": "{core/base.spacing.lg}",
+          "type": "number"
+        },
+        "paddingY": {
+          "value": "{core/base.spacing.md}",
+          "type": "number"
+        },
+        "iconOnly": {
+          "value": "{core/base.spacing.md}",
+          "type": "number"
+        }
+      },
+      "sm": {
+        "height": {
+          "value": 30,
+          "type": "number"
+        },
+        "paddingX": {
+          "value": "{core/base.spacing.md}",
+          "type": "number"
+        },
+        "paddingY": {
+          "value": "{core/base.spacing.sm}",
+          "type": "number"
+        },
+        "iconOnly": {
+          "value": "{core/base.spacing.sm}",
+          "type": "number"
+        }
+      }
+    },
+    "gap": {
+      "textIcon": {
+        "value": "{core/base.spacing.sm}",
+        "type": "number"
+      }
+    }
+  },
+  "textInput": {
+    "elementSpacing": {
+      "value": "{core/base.spacing.sm}",
+      "type": "number"
+    },
+    "size": {
+      "md": {
+        "height": {
+          "value": 36,
+          "type": "number"
+        },
+        "paddingX": {
+          "value": "{core/base.spacing.md}",
+          "type": "number"
+        },
+        "paddingY": {
+          "value": "{core/base.spacing.sm}",
+          "type": "number"
+        }
+      },
+      "sm": {
+        "height": {
+          "value": 30,
+          "type": "number"
+        },
+        "paddingX": {
+          "value": "{core/base.spacing.md}",
+          "type": "number"
+        },
+        "paddingY": {
+          "value": "{core/base.spacing.xxs}",
+          "type": "number"
+        }
+      }
+    }
+  }
+}

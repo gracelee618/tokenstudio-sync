@@ -1,0 +1,15 @@
+{
+  "$themes": [
+    {
+      "id": "default-contrast",
+      "name": "Default (Contrast)",
+      "selectedTokenSets": {
+        "core/base": "enabled",
+        "primitives/size-and-spacing": "enabled",
+        "primitives/radius": "enabled",
+        "semantic/color-contrast": "enabled",
+        "components/button-contrast": "enabled"
+      }
+    }
+  ]
+}
